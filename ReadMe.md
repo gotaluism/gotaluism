@@ -17,8 +17,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gotaluism&icon=2&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gotaluism) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
   
