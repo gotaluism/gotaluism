@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻My portafolio: https://myose.tech/ <br>🔭 I’m currently studying Software Engineering at University Eafit (Colombia)<br>🌱 I’m currently learning Django<br>💬 Ask me about the innovation of the technology, criptos and the metaverse<br>⚡ Fun fact personal growth
+💻My portafolio: https://myose.tech/ <br>🔭 I’m currently studying Software Engineering at University Eafit (Colombia)<br>🌱 I’m currently learning React<br>💬 Ask me about the innovation of the technology, criptos and the metaverse<br>⚡ Fun fact personal growth
 
 
 ## 🌐 Socials:
