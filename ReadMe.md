@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently studying Software Engineering at University Eafit (Colombia)<br>🌱 I’m currently learning AI Agents<br>💬 Ask me about the innovation of the AI technology, criptos and the metaverse<br>⚡ Fun fact personal growth
+I’m Software Engineering at University Eafit (Colombia)<br>🌱 I’m currently learning AI Agents<br>💬 Ask me about the innovation of the AI technology, criptos and the metaverse<br>⚡ Fun fact personal growth
 
 
 # 💻 Tech Stack:
